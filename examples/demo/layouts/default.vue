@@ -2,12 +2,12 @@
   <div>
     <b-navbar toggleable="md" variant="light">
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-      <b-navbar-brand to="/">Nuxt.js</b-navbar-brand>
+      <b-navbar-brand to="/">Wild Bill</b-navbar-brand>
 
       <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav>
           <b-nav-item to="/" exact>Home</b-nav-item>
-          <b-nav-item to="/public">Public</b-nav-item>
+          <b-nav-item to="/public">Public (aka wild wild west)</b-nav-item>
           <b-nav-item to="/secure">Secure</b-nav-item>
         </b-navbar-nav>
         <b-navbar-nav class="ml-auto">
